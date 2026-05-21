@@ -7,3 +7,9 @@ Status:
 4. Extra mapper support: 0%
 5. PPU: 60%
 6. Memory (RAM): 20%
+
+# How to run
+It's simple, just run "python chocolate.py" in your terminal.
+
+# Requirements
+Not much is needed, all you need is Python 3.0 (2008) or newer.
