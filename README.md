@@ -12,4 +12,4 @@ Status:
 It's simple, just run "python chocolate.py" in your terminal.
 
 # Requirements
-Not much is needed, all you need is Python 3.0 (2008) or newer.
+Not much is needed, all you need is Python 3.6 (2016) or newer.
